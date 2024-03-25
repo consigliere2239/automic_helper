@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Cem Çağlar
+- This GitHub repository only contains the scripts I have written. All data in my scripts has been masked. 
 - 👀 I’m interested in ... chess 
 - 💞️ I’m looking to collaborate on ... any data-related projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/cemcaglar/
